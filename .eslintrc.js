@@ -22,8 +22,7 @@ module.exports = {
     },
     plugins: [
         'css-modules',
-        'import',
-        'jest'
+        'import'
     ],
     rules: {
         'indent': [
